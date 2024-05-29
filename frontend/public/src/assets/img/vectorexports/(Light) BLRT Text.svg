@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 892.42 306">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Cashrole, Cashrole;
+        font-size: 93.91px;
+        letter-spacing: .02em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #faf0db;
+      }
+
+      .cls-2 {
+        font-family: LEMONMILK-Regular, 'LEMON MILK';
+        font-size: 66.42px;
+      }
+
+      .cls-4 {
+        letter-spacing: .25em;
+      }
+
+      .cls-5 {
+        letter-spacing: .21em;
+      }
+
+      .cls-3 {
+        font-family: Couture-Bold, Couture;
+        font-size: 129.85px;
+        font-weight: 700;
+        letter-spacing: .02em;
+      }
+    </style>
+  </defs>
+  <g id="Text">
+    <g>
+      <text class="cls-2" transform="translate(324.21 288.19)"><tspan class="cls-5" x="0" y="0">t</tspan><tspan class="cls-4" x="53.29" y="0">our</tspan></text>
+      <text class="cls-1" transform="translate(348.2 79.82)"><tspan x="0" y="0">Bali</tspan></text>
+      <text class="cls-3" transform="translate(0 198.63)"><tspan x="0" y="0">Land Rover</tspan></text>
+    </g>
+  </g>
+</svg>
